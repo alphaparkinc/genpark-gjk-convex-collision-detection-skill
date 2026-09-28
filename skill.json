@@ -1,0 +1,20 @@
+{
+  "name": "genpark-gjk-convex-collision-detection-skill",
+  "version": "1.0.0",
+  "description": "Gilbert-Johnson-Keerthi (GJK) convex polytope collision detector using Minkowski difference support mappings",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "gjk-algorithm",
+    "collision-detection",
+    "convex-polytope",
+    "minkowski-difference",
+    "support-mapping",
+    "python-standard-library",
+    "agent-skills",
+    "computational-geometry",
+    "physics-engine",
+    "simplex"
+  ]
+}
